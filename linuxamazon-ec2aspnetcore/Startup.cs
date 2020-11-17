@@ -37,7 +37,7 @@ namespace linuxamazon_ec2aspnetcore
                 app.UseDeveloperExceptionPage();
             }
 
-            //app.UseHttpsRedirection();
+            app.UseHttpsRedirection();
 
             app.UseRouting();
 
