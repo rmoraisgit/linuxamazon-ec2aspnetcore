@@ -1,0 +1,1 @@
+web: dotnet exec ./linuxamazon-ec2aspnetcore.dll
