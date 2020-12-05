@@ -1,0 +1,7 @@
+C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\obj\Release\netcoreapp3.1\PubTmp\Out\linuxamazon-ec2aspnetcore.exe
+C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\obj\Release\netcoreapp3.1\PubTmp\Out\linuxamazon-ec2aspnetcore.dll
+C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\obj\Release\netcoreapp3.1\PubTmp\Out\linuxamazon-ec2aspnetcore.deps.json
+C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\obj\Release\netcoreapp3.1\PubTmp\Out\linuxamazon-ec2aspnetcore.runtimeconfig.json
+C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\obj\Release\netcoreapp3.1\PubTmp\Out\linuxamazon-ec2aspnetcore.pdb

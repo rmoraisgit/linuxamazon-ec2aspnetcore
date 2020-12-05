@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>linuxamazon_ec2aspnetcore</RootNamespace>
+    <UserSecretsId>84d759f1-34af-48bb-9cdd-2aebe64de477</UserSecretsId>
   </PropertyGroup>
 
 

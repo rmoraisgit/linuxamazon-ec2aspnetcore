@@ -6,7 +6,6 @@ C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\bin\
 C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\bin\Debug\netcoreapp3.1\linuxamazon-ec2aspnetcore.runtimeconfig.dev.json
 C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\bin\Debug\netcoreapp3.1\linuxamazon-ec2aspnetcore.dll
 C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\bin\Debug\netcoreapp3.1\linuxamazon-ec2aspnetcore.pdb
-C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\obj\Debug\netcoreapp3.1\linuxamazon-ec2aspnetcore.csprojAssemblyReference.cache
 C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\obj\Debug\netcoreapp3.1\linuxamazon-ec2aspnetcore.AssemblyInfoInputs.cache
 C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\obj\Debug\netcoreapp3.1\linuxamazon-ec2aspnetcore.AssemblyInfo.cs
 C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\obj\Debug\netcoreapp3.1\linuxamazon-ec2aspnetcore.csproj.CoreCompileInputs.cache
@@ -18,3 +17,4 @@ C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\obj\
 C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\obj\Debug\netcoreapp3.1\linuxamazon-ec2aspnetcore.dll
 C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\obj\Debug\netcoreapp3.1\linuxamazon-ec2aspnetcore.pdb
 C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\obj\Debug\netcoreapp3.1\linuxamazon-ec2aspnetcore.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\linuxamazon-ec2aspnetcore\linuxamazon-ec2aspnetcore\obj\Debug\netcoreapp3.1\linuxamazon-ec2aspnetcore.csprojAssemblyReference.cache
